@@ -21,9 +21,7 @@
         </ul>
     </nav>
 
-    <?php
-    
-    ?>
+
 
 
     <div id="navTopHome">
