@@ -21,7 +21,6 @@
         </ul>
     </nav>
 
-
     <div id="navTopHome">
         <h3>Gestão de Pedidos</h3>
             <div id="AreaIdentificaUsuarioHome">
@@ -31,9 +30,7 @@
             </div>
 
     <div id="ContainerHome">
-  
-
-        <div id="boxHome1"></div>
+          <div id="boxHome1"></div>
             <div id="boxHome2"></div>
                 <div id="boxHome3"></div>
                     <div id="boxHome4"></div>

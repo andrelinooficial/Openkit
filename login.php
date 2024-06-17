@@ -23,6 +23,5 @@
         <p class="txtWhitePadrao"><strong>Sistema Desenvolvido por:</strong>  <a style="color: white;" href="https://github.com/andrelinooficial"  target="_blank">Andrelino Lima</a> </p>
     </div>
 
-    
 </body>
 </html>
