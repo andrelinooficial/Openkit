@@ -9,7 +9,7 @@
 </head>
 <body>
     <nav id="menuPrincipal">
-        <img class="logoDaAplicação" src="./assets/img/logo.png" alt="Logotipo">
+        <img class="logoDaAplicação" src="./assets/img/logoold.png" alt="Logotipo">
         <ul>
             <a class="linkMenuPrincipal" href="">🏠 Principal</a><br><br>
             <a class="linkMenuPrincipal" href="">📝 Novo Pedido</a><br><br>
@@ -21,18 +21,9 @@
         </ul>
     </nav>
 
-    <?php
-    echo "Essa é a Terceira Modificação do código";
-    echo "Essa é uma linha criada no ambiente de testes";
-    echo "REALIZADO UPDATE NO NOTEBOOK";
-    echo "TESTE DE SYNC DE AMBIENTE";
-    ?>
-
-
-
 
     <div id="navTopHome">
-        <h3 style="color:#4D4D4E; margin-right: 15px; font-family:Arial, Helvetica, sans-serif; margin-left:260px;">Gestão de Pedidos</h3>
+        <h3>Gestão de Pedidos</h3>
             <div id="AreaIdentificaUsuarioHome">
             <div style="display:flex;flex-direction:column;">
             <h4 style="color:#4D4D4E; margin-right: 15px; font-family:Arial, Helvetica, sans-serif;">Bem Vindo;</h4><p style="color:#A6B4C6;font-family:Arial, Helvetica, sans-serif; font-size:14px;">Andrelino</p></div>
