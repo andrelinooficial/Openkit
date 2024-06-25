@@ -23,20 +23,13 @@
     </nav>
 
     <div id="navTopHome">
-        <h3>Sistema de Controle de Monitorias</h3>
+        <h3>Lista de Operadores</h3>
             <div id="AreaIdentificaUsuarioHome">
             <div style="display:flex;flex-direction:column;">
             <h4 style="color:#4D4D4E; margin-right: 15px; font-family:Arial, Helvetica, sans-serif;">Bem Vindo;</h4><p style="color:#A6B4C6;font-family:Arial, Helvetica, sans-serif; font-size:14px;">Andrelino</p></div>
             <img class="FotoPerfil" src="./assets/img/perfil.png" alt=""></div>
             </div>
 
-    <div id="ContainerHome">
-          <div id="boxHome1"></div>
-            <div id="boxHome2"></div>
-                <div id="boxHome3"></div>
-                    <div id="boxHome4"></div>
-                   
-    </div>
 
     <div style="height: 1200px;"></div>
    
