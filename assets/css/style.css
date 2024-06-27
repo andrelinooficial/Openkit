@@ -132,7 +132,7 @@ h3{
 
 #formCadastrarOperador{
     position: relative;
-    height: 400px;
+    height: 500px;
     background-color: #ffffffff;
     border: 0.3px solid rgb(216, 216, 216);
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
@@ -169,6 +169,7 @@ h3{
     border: solid 1px #cecece;
     color: #7a7a7a;
     outline: none;
+    padding-left: 10px;
 }
 
 .formOptionSelect{
@@ -180,6 +181,54 @@ h3{
     outline: none;
 }
 
+.usuarioPortal{
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px #cecece;
+    color: #7a7a7a;
+    outline: none;
+    padding-left: 10px;
+}
+
+.senhaUsuarioPortal{
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px #cecece;
+    color: #7a7a7a;
+    outline: none;
+    padding-left: 10px;
+}
+
 .formOptionSelect:hover{
     cursor: pointer;
+}
+
+#btnCadastrarUsuario{
+    height: 30px;
+    width: 100px;
+    background-color: #459725af;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+#btnCadastrarUsuario:hover{
+   cursor: pointer;
+   background-color: #459725d7;
+}
+
+#btnLimparCadastrarUsuario{
+    height: 30px;
+    width: 100px;
+    background-color: #a32020af;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+#btnLimparCadastrarUsuario:hover{
+   cursor: pointer;
+   background-color: #a32020dc;
 }
